@@ -1,0 +1,60 @@
+.flash-deal-text {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+.countdown-background {
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.countdown-background {
+    background: #3b71de;
+}
+
+
+.cz-countdown-days,
+.cz-countdown-hours,
+.cz-countdown-minutes,
+.cz-countdown-seconds{
+    color: #fff!important;
+    background-color: rgba(255,255,255,.1882352941);
+    padding: 0 6px;
+    border-radius: 3px;
+    margin-right: 0!important;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+
+
+.flash_deal_product {
+    border: rgba(0, 0, 0, 0.0509803922) 1px solid;
+    cursor: pointer;
+    height: 160px;
+   
+}
+
+.flash-product-price{
+    color:#3b71de !important;
+    font-weight: 700;
+    font-size: 18px !important;
+}
+
+/* .flash_deal_main{
+    padding: 12px !important;
+} */
+
+.react-multi-carousel-item{
+    margin: 10px !important;
+} 
+
+.countdown-card {
+    background: #3b71de10 !important;
+}

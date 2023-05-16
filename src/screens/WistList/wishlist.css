@@ -1,0 +1,39 @@
+
+a:hover {
+    color: #f58300 !important;
+}
+
+
+
+.__customer-sidebar nav button {
+  text-align: left !important;
+}
+
+
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+   
+    color: #f58300 !important;
+    font-weight: 700 !important;
+    background-color: #ffff !important;
+
+}
+
+ .nav-pills .nav-link{
+    color:#000;
+    text-align: left !important;
+ }
+.nav-pills .nav-link:hover{
+    color: #f58300 !important;
+}
+
+.donate-now {
+    list-style-type: none !important;
+    margin: 25px 0 0 !important;
+    padding: 0 !important;
+    padding: 5px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    z-index: 90;
+}
+

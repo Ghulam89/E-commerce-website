@@ -1,0 +1,16 @@
+.__card {
+    background: #fff;
+    border: 1px solid rgba(27,127,237,.1);
+    box-shadow: 0 0 2px rgba(0,113,220,.15);
+    border-radius: 10px;
+}
+
+.__card .card-header, .__card .form-control {
+    border-color: rgba(204,235,255,.4784313725);
+}
+
+.feature_header span {
+    font-weight: 700;
+    font-size: 25px;
+    text-transform: uppercase;
+}
